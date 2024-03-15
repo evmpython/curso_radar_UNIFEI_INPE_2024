@@ -7,7 +7,7 @@
 - Todas as instruções e scripts são processados diretamente na nuvem, não sendo necessário instalar ferramentas ou fazer o download dos dados localmente no seu computador. Para rodar as células de código, click no ícone de `play` no lado esquerdo superior ou digite `shift enter` no seu teclado.
 
 - ---
-#CURSO: **RADAR METEOROLÓGICO: FUNDAMENTOS E PROCESSAMENTO DE DADOS COM PYTHON**
+# CURSO: **RADAR METEOROLÓGICO: FUNDAMENTOS E PROCESSAMENTO DE DADOS COM PYTHON**
 
 ---
 
