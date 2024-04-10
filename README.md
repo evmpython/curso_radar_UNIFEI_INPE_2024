@@ -1,12 +1,4 @@
 
-# **Sejam bem-vindos ao curso!**
-
-
-- Este Colab contêm as informações para instalar as bibliotecas necessárias e os scritps em Python para manipular os dados de radar meteorológico.
-
-- Todas as instruções e scripts são processados diretamente na nuvem, não sendo necessário instalar ferramentas ou fazer o download dos dados localmente no seu computador. Para rodar as células de código, click no ícone de `play` no lado esquerdo superior ou digite `shift enter` no seu teclado.
-
-- ---
 # CURSO: **RADAR METEOROLÓGICO: FUNDAMENTOS E PROCESSAMENTO DE DADOS COM PYTHON**
 
 ---
@@ -32,7 +24,10 @@
 13. Biblioteca Xradar
 ---
 
-**DADOS:** A parte prática do curso usará como informações de entrada os dados voluméticos em formato HDF5 do radar de [Salesópolis](https://www.saisp.br/estaticos/sitenovo/home.html). Esses dados de radar são referentes ao desastre natural que provocou as [**Enchentes e deslizamentos de terra no Litoral Norte de São Paulo entre os dias 18 e 19 de fevereiro de 2023**](https://floodlist.com/america/brazil-floods-sao-paulo-february-2023). Este evento foi [histórico](https://www.bbc.com/portuguese/articles/cydngmz112mo) e afetou as cidades de Ubatuba, São Sebastião, Guarujá, Ilhabela, Caraguatatuba e Bertioga e produziu precipitação de **680 mm em 24 h**, provocando a morte de [**65 pessoas (64 em São Sebastião e 1 em Ubatuba)**](https://pt.wikipedia.org/wiki/Enchentes_e_deslizamentos_de_terra_no_Litoral_Norte_de_S%C3%A3o_Paulo_em_2023).
+**DADOS:**
+- A parte prática do curso utilizará como informações de entrada os dados voluméticos em formato HDF5 do radar de [Salesópolis](https://www.saisp.br/estaticos/sitenovo/home.html). Esses dados de radar são referentes ao desastre natural que provocou as [**Enchentes e deslizamentos de terra no Litoral Norte de São Paulo entre os dias 18 e 19 de fevereiro de 2023**](https://floodlist.com/america/brazil-floods-sao-paulo-february-2023). Este evento foi [histórico](https://www.bbc.com/portuguese/articles/cydngmz112mo) e afetou as cidades de Ubatuba, São Sebastião, Guarujá, Ilhabela, Caraguatatuba e Bertioga e produziu precipitação de **680 mm em 24 h**, provocando a morte de [**65 pessoas (64 em São Sebastião e 1 em Ubatuba)**](https://pt.wikipedia.org/wiki/Enchentes_e_deslizamentos_de_terra_no_Litoral_Norte_de_S%C3%A3o_Paulo_em_2023).
+- Uma descrição e discussão meteorológica completa desse evento, pode ser encontrado no seguinte artigo: Marengo et al. (2024). [Heavy rains and hydrogeological disasters on February 18th–19th, 2023, in the city of São Sebastião, São Paulo, Brazil: from meteorological causes to early warnings](https://link.springer.com/article/10.1007/s11069-024-06558-5). Natural Hazards. https://doi.org/10.1007/s11069-024-06558-5.
+
 
 ---
 
